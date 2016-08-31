@@ -1,6 +1,6 @@
 # sentiment-analysis
 Modern techniques for sentiment analysis
-See nlp-compromise for more examples.
+See nlp-compromise for more examples.(WIP)
 
 We use Sentiment analysis as a classification technique to extract and process any emotional information from the text(traditionally) whilesome researchers are specifically focused on performing the same techniques on images.
 
